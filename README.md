@@ -6,7 +6,11 @@ Successful installation of Docker
 ![first screenshot](/Screenshots/Lab3_Activity_2.png)  
 
 ## Activity 3 Screenshot
-Application running locally
+Application running locally - New user usecase    
+![second screenshot](/Screenshots/Lab3_Activity_3_Stranger.png) 
+
+Application running locally - Existing user usecase       
+![third screenshot](/Screenshots/Lab3_Activity_3_User.png) 
 
 ## Activity 4 Screenshot
 Log message
