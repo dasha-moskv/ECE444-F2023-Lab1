@@ -13,6 +13,11 @@ Application running locally - Existing user usecase
 ![third screenshot](/Screenshots/Lab3_Activity_3_User.png) 
 
 ## Activity 4 Screenshot
-Log message
+Log message 
+![fourth screenshot](/Screenshots/Lab3_Activity_4_log.png) 
 
-Proof of application running
+Application running with Docker - New user usecase     
+![fifth screenshot](/Screenshots/Lab3_Activity_4_app_stranger.png) 
+
+Application running with Docker - Existing user usecase       
+![sixth screenshot](/Screenshots/Lab3_Activity_4_app_user.png) 
